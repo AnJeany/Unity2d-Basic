@@ -15,7 +15,7 @@ public class PlayerController : MonoBehaviour
     private float verticalInput;
     private Vector3 cameraOffsetVector;
 
-    private bool canMove = false;
+    private bool canMove = true;
 
 
     private void Start()
